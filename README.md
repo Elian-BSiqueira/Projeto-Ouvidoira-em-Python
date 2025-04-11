@@ -1,8 +1,3 @@
-# Projetos da Faculdade
- Repositorio para projetos e exercicios da faculdade
-
-# README - Sistema de Ouvidoria
-
 ## 📝 Descrição do Projeto
 
 Este projeto é um sistema de ouvidoria desenvolvido em Python, que permite aos usuários cadastrar, visualizar, pesquisar e excluir manifestações (sugestões, elogios ou reclamações). O sistema está integrado a um banco de dados MySQL para armazenamento persistente das informações.
